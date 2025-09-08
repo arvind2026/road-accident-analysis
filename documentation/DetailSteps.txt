@@ -1,0 +1,76 @@
+# Road Accident Analysis Dashboard - Data Analyst Experience
+
+## Project Overview
+Led a comprehensive road accident analysis project to develop an interactive Power BI dashboard covering 2021-2022 data. The project aimed to provide actionable insights to government agencies and transport authorities for improving road safety policies.
+
+## Key Responsibilities & Process
+
+=> Data Collection & Assessment :
+
+- Analyzed raw dataset containing road accident records with multiple parameters including date, location, vehicle type, accident severity, and casualty information
+- Conducted initial data quality assessment and identified key data cleaning requirements
+- Collaborated with stakeholders from Ministry of Transport, Police Force, and Emergency Services to understand reporting needs
+
+=> Data Preparation & Modeling :
+
+- Connected and imported large datasets into Power BI from multiple sources
+- Performed extensive data cleaning to handle missing values, inconsistencies, and formatting issues
+- Created calculated fields and measures for year-over-year comparisons and KPI calculations
+- Developed data model with proper relationships between fact and dimension tables
+- Built time intelligence functions for monthly trending and comparative analysis
+
+=> Dashboard Development :
+
+- Designed custom background layouts in PowerPoint for professional dashboard appearance
+- Created interactive visualizations including area charts, bar charts, and KPI cards
+- Implemented drill-down capabilities for location-based analysis
+- Built dynamic filters for vehicle type, road type, and time period selections
+- Developed responsive dashboard layout suitable for different screen sizes
+
+=> Analysis & Insights Generation :
+
+- Calculated primary KPIs: Total casualties (169.4K) and accidents (125.4K) with YoY growth rates
+- Analyzed casualty trends by severity levels (Fatal: 2,567, Serious: 23.9K, Slight: 143K)
+- Performed vehicle type analysis showing cars accounted for 79% of total casualties
+- Conducted geographical analysis identifying Birmingham as highest risk area with 4,096 casualties
+- Analyzed temporal patterns revealing 75% of accidents occur during daytime hours
+
+
+## Key Findings & Impact
+
+=> Performance Metrics Delivered :
+
+- Overall 11.17% decrease in casualties compared to previous year
+- 30.98% reduction in fatal casualties - significant safety improvement
+- Identified urban areas account for 62% of all casualties, requiring targeted interventions
+
+=> Strategic Insights Provided :
+
+- Peak accident months identified (September 2021: 16,965 vs June 2022: 15,829)
+- Single carriageways emerged as highest risk road type with 125,513 casualties
+- Rural vs urban casualty distribution analysis (38% rural, 62% urban)
+- Day/night analysis showing clear daytime accident concentration
+
+=> Recommendations Delivered :
+- Prioritized urban safety measures based on 62% casualty concentration
+- Suggested car-specific safety campaigns given 134K+ car-related casualties
+- Recommended city-specific interventions for top 5 high-risk locations
+- Proposed enhanced single carriageway safety measures
+
+
+## Technical Skills Demonstrated
+
+- Power BI : Advanced dashboard creation, DAX calculations, data modeling
+- Data Analysis : Statistical analysis, trend identification, comparative analysis
+- Data Cleaning : Handling large datasets, quality assurance, validation
+- Stakeholder Management : Requirements gathering, presentation of findings
+- Data Visualization : Creating clear, actionable charts and KPIs for executive audiences
+
+## Business Impact
+The dashboard enabled government agencies to make data-driven decisions for road safety policies. The analysis directly supported resource allocation decisions and helped identify priority areas for safety interventions, contributing to the observed 11% reduction in overall casualties.
+
+## Tools Used
+- Power BI (Primary platform)
+- PowerPoint (Background design)
+- Excel (Data preprocessing)
+- DAX (Calculations and measures)
